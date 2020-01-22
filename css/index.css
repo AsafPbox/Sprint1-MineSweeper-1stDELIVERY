@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+table {
+    width: 70%;
+    margin-left: auto; 
+    margin-right: auto;
+    table-layout: fixed;
+}
+
+td {
+    text-align: center;
+    background-color: gray;
+}
+
+.menu h5 {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+}
